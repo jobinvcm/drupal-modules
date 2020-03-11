@@ -1,0 +1,13 @@
+{
+    "name": "test_composer",
+    "type": "drupal-module",
+    "description": "Test",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/test_composer",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/test_composer",
+        "source": "http://cgit.drupalcode.org/test_composer",
+    },
+}
